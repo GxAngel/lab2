@@ -1,6 +1,6 @@
-<!doctype html>
+export default `<!doctype html>
 <html lang="en" data-beasties-container="">
-<head>
+<head><base href="/lab2">
   <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="">
@@ -100,3 +100,4 @@
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
 <link rel="modulepreload" href="chunk-IHMA47CN.js"><script src="main-6QU6PZWD.js" type="module"></script></body>
 </html>
+`;

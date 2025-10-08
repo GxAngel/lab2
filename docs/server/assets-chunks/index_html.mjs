@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en" data-beasties-container><head>
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head><base href="/lab2">
   <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content>
@@ -98,4 +98,4 @@
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
 <link rel="modulepreload" href="chunk-IHMA47CN.js"><script src="main-6QU6PZWD.js" type="module"></script>
 
-<script id="ng-state" type="application/json">{"__nghData__":[{},{"c":{"53":[{"i":"c4033227758","r":1}]}},{"c":{"0":[{"i":"c3283817977","r":1}]}}]}</script></body></html>
+<script id="ng-state" type="application/json">{"__nghData__":[{},{"c":{"53":[{"i":"c4033227758","r":1}]}},{"c":{"0":[{"i":"c3283817977","r":1}]}}]}</script></body></html>`;
